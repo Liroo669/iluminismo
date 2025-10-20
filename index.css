@@ -1,0 +1,23 @@
+h1 {
+ color: blue;
+ background-color: yellow;
+ border: 5px solid #111;
+ text-align: center;
+ padding: 10px;
+ margin: 20px;
+ border-radius: 100px;  
+}
+p {
+    font-size: 18px;
+    color: blueviolet;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
+#especial {
+    color: pink;
+}
+#container {
+    background-color: blue;
+}
+
